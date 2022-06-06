@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `"<div><button id=\\"antd-btn\\" type=\\"button\\" class=\\"ant-btn ant-btn-default\\"></button><span>dis-visible</span></div>"`;
+
+exports[` 2`] = `"<div><button id=\\"antd-btn\\" type=\\"button\\" class=\\"ant-btn ant-btn-default\\"></button><span>visible</span></div>"`;
+
+exports[`Child 1`] = `"<div><button id=\\"antd-btn\\" type=\\"button\\" class=\\"ant-btn ant-btn-default\\"></button><span>dis-visible</span></div>"`;
+
+exports[`Child 2`] = `"<div><button id=\\"antd-btn\\" type=\\"button\\" class=\\"ant-btn ant-btn-default\\"></button><span>visible</span></div>"`;
+
+exports[`renders learn react link 1`] = `"<div><button id=\\"antd-btn\\" type=\\"button\\" class=\\"ant-btn ant-btn-default\\"></button><span>dis-visible</span></div>"`;
+
+exports[`renders learn react link 2`] = `"<div><button id=\\"antd-btn\\" type=\\"button\\" class=\\"ant-btn ant-btn-default\\"></button><span>visible</span></div>"`;
